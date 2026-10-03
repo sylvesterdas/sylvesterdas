@@ -8,6 +8,7 @@ Senior Software Engineer based in Mumbai. I build privacy-first mobile apps, web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvester_Das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvesterdas)
 [![X](https://img.shields.io/badge/X-@DasWizard-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DasWizard)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/sylvester-das)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sylvesterdas)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sylvester.das)
 
 ## 🚀 What I'm building
